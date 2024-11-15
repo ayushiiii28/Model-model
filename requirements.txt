@@ -1,0 +1,64 @@
+absl-py==2.1.0
+altair==5.4.1
+anyio==4.3.0
+arrow==1.3.0
+asttokens==2.4.1
+attrs==23.2.0
+Babel==2.15.0
+beautifulsoup4==4.12.3
+bleach==6.1.0
+blinker==1.9.0
+certifi==2024.2.2
+charset-normalizer==3.3.2
+click==8.1.7
+cloudpickle==3.1.0
+colorama==0.4.6
+decorator==5.1.1
+defusedxml==0.7.1
+dnspython==2.7.0
+Flask==3.0.3
+Flask-Cors==5.0.0
+
+# Data Science and Machine Learning
+dask==2024.11.1
+h5py==3.12.1
+joblib==1.4.2
+json5==0.9.25
+jsonschema==4.22.0
+jupyter==1.0.0
+keras==3.6.0
+Markdown==3.7
+matplotlib==3.9.2
+numpy==2.0.2
+pandas==2.2.2
+scikit-learn==1.5.2
+scipy==1.14.1
+seaborn==0.13.2
+tensorboard==2.18.0
+tensorflow==2.18.0
+tensorflow-intel==2.18.0
+
+# Pure-Python and Safe Compilation
+cffi==1.16.0 --no-binary :all:
+Pygments==2.18.0
+pymongo==4.10.1
+python-dateutil==2.9.0.post0
+PyYAML==6.0.1
+
+# Networking and Web Development
+httpcore==1.0.5
+httpx==0.27.0
+idna==3.7
+requests==2.31.0
+urllib3==2.2.1
+websocket-client==1.8.0
+
+# Extras
+nbclient==0.10.0
+nbconvert==7.16.4
+nbformat==5.10.4
+nest-asyncio==1.6.0
+notebook==7.1.3
+platformdirs==4.2.1
+prometheus_client==0.20.0
+watchdog==5.0.3
