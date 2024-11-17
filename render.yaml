@@ -1,0 +1,12 @@
+# Exported from Render on 2024-11-17T06:04:28Z
+services:
+- type: web
+  name: Model-model-5
+  runtime: python
+  repo: https://github.com/ayushiiii28/Model-model
+  branch: master1
+  plan: free
+  region: oregon
+  buildCommand: pip install -r requirements.txt
+  startCommand: gunicorn app:app
+version: "1"
